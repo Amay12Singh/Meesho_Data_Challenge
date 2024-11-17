@@ -1,6 +1,7 @@
 # Meesho_Data_Challenge
 
 To install the required dependencies, use the following command:
+
 pip install numpy==1.26.4 pandas==2.2.3 tensorflow==2.16.1 tqdm==4.66.4 matplotlib==3.7.5 scikit-learn==1.2.2
 
 How to run training code :
