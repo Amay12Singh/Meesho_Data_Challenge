@@ -1,4 +1,4 @@
-# Meesho_Data_Challenge
+# CODS-COMAD Data Challenge (Sponsored by Meesho)
 The project uses :
 This project requires the following dependencies:
 
