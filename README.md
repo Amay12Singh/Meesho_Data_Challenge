@@ -1,6 +1,6 @@
 # CODS-COMAD Data Challenge (Sponsored by Meesho)
 The project uses :
-This project requires the following dependencies:
+This project requires the following dependencies (from Kaggle) :
 
 Python Version: 3.10.14
 NumPy Version: 1.26.4
@@ -10,7 +10,7 @@ TQDM Version: 4.66.4
 Matplotlib Version: 3.7.5
 Scikit-learn Version: 1.2.2
 
-To avoid any issues, ensure you have atleast Python 3.10.14 installed. Then, install the required dependencies by running the following command:
+To avoid any issues, ensure you have Python 3.10.14 installed. Then, install the required dependencies by running the following command:
 
 pip install numpy==1.26.4 pandas==2.2.3 tensorflow==2.16.1 tqdm==4.66.4 matplotlib==3.7.5 scikit-learn==1.2.2
 
