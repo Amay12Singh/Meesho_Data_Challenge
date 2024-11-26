@@ -1,6 +1,6 @@
 # CODS-COMAD Data Challenge (Sponsored by Meesho)
-The project uses :
-This project requires the following dependencies (from Kaggle) :
+
+This project requires the following dependencies (as provided in Kaggle environment) :
 
 Python Version: 3.10.14
 NumPy Version: 1.26.4
