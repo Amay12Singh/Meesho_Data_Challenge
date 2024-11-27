@@ -95,3 +95,4 @@ For testing predictions with a single model:
 - **Efficient Training**: Training one category at a time is recommended for optimal performance.
 - **Flexibility**: You can test single-model predictions or use ensemble predictions by updating the paths in the respective scripts.
 - **Submission Output**: The output `Submission.csv` file adheres to the competition requirements.
+- **Sample Notebook for Men Tshirts category**: The jupyter notebook `efficientnetv2-s-mens-tshirt.ipynb` contains the EfficientNetV2S training code.
